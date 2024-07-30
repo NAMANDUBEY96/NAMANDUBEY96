@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/NAMANDUBEY96/NAMANDUBEY96/blob/main/DATA%20SCIENCE.png?raw=true)
 <h1 align="center">Hi 👋, I'm Naman Dubey</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/gew.gif">
